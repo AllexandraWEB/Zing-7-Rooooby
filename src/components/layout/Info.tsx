@@ -45,7 +45,7 @@ const Info = () => {
             <p className='w-[112px] text-dark-gray uppercase text-[14px] font-bold px-[8px] py-[6px] tracking-[1.4px] bg-primary-yellow rounded-md mt-3 md:mt-[93px] ml-[155px] md:ml-0'>marketing</p>
           </div>
           <h1 className='w-[350px] md:w-[560px] text-[30px] md:text-[58px] mx-auto md:mx-0 text-black font-bold tracking-[-0.67px] leading-[70px] text-primary max-sm:leading-[50px] mt-[50px] md:mt-[16px] text-center md:text-start'>Marketing</h1>
-          <p className='w-[350px] md:w-[487px] mt-5 md:mt-[24px] mx-auto md:mx-0 text-[15px] md:text-[18px] text-center md:text-start'>Market like the most successful companies in the world with Agile CRM's marketing automation software. </p>
+          <p className='w-[350px] md:w-[487px] mt-5 md:mt-[24px] mx-auto md:mx-0 text-[15px] md:text-[18px] text-center md:text-start'>Market like the most successful companies in the world with Agile CRM&apos;s marketing automation software. </p>
           <ul className='w-[487px] mt-6 md:mt-[25px]'>
             <li className='flex w-[400px]'>
               <img src="Shape.svg" alt="" className='mr-[20px] md:mr-[27px] ml-[20px] md:ml-0'/>
