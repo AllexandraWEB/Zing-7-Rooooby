@@ -12,9 +12,9 @@ const blogPage = () => {
         <main>
             <HeroBlog />
             <ArticleBlog />
-         {/* <Supercharge /> */}
+            <Supercharge />
         </main>
-      {/* <Footer /> */}
+      <Footer />
       </>
   )
 }

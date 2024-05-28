@@ -63,11 +63,11 @@ const Nav = () => {
           </div>
         )}
           <ul className='flex-1 flex justify-start items-center px-9 gap-6 max-lg:hidden p-5 text-nav-color cursor-pointer text-[14px]'>
-              <li className="py-3 px-3 ml-9 font-medium hover:underline hover:underline-offset-8"><a href="/product">Product</a></li>
+              <li className="py-3 px-3 ml-9 font-medium hover:underline hover:underline-offset-8"><a href="/">Product</a></li>
               <li className="py-3 px-3 font-medium hover:underline hover:underline-offset-8"><a href="/pricing">Pricing</a></li>
-              <li className="py-3 px-3 font-medium hover:underline hover:underline-offset-8">Company</li>
+              <li className="py-3 px-3 font-medium hover:underline hover:underline-offset-8"><a href="/company"> Company</a></li>
               <li className="py-3 px-3 font-medium hover:underline hover:underline-offset-8"><a href="/blog">Blog</a></li>
-              <li className="py-3 px-3 font-medium hover:underline hover:underline-offset-8">Contact</li>
+              <li className="py-3 px-3 font-medium hover:underline hover:underline-offset-8"><a href="/contact">Contact</a></li>
           </ul>
   
           <ul className='flex justify-end items-center gap-5 max-lg:hidden p-5 text-nav-color text-[16px] mr-0 md:mr-[90px]'> 
