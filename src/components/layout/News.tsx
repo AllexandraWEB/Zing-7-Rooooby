@@ -8,7 +8,7 @@ const News = () => {
           <h1 className='text-[30px] md:text-[64px] leading-[74px] tracking-[-0.89px] font-bold mt-[60px] md:mt-[120px] m-auto md:m-0'>What’s new at Roooby?</h1>
             <div className='w-[100px] h-[24px] mt-[30px] md:mt-[160px] ml-[300px] md:ml-[327px]'>
               <div className='flex flex-wrap'>
-               <p className='text-[18px] md:text-[20px] tracking-[0.43px] font-medium cursor-pointer'>See all</p>
+               <p className='text-[18px] md:text-[20px] tracking-[0.43px] font-medium cursor-pointer'><a href="/blog">See all</a></p>
                <img 
                src="Arrow-Green.svg" 
                alt="Arrow" 

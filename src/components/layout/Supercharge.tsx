@@ -17,7 +17,7 @@ const Supercharge = () => {
       <div className="flex flex-col items-center gap-5 md:ml-[120px] md:mt-[50px]">
         <button 
         type="submit" 
-        className="bg-white text-black font-bold tracking-[-0.25px] text-[18px] w-[198px] h-[64px] mt-[35px] md:mt-0 rounded-lg drop-shadow-xl">Try for Free
+        className="bg-white text-black font-bold tracking-[-0.25px] text-[18px] w-[198px] h-[64px] mt-[35px] md:mt-0 rounded-lg drop-shadow-xl"><a href="/pricing">Try for Free</a> 
         </button> 
           <p className="text-white text-sm font-medium">Full access. No credit card required.</p>
         </div>

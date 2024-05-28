@@ -39,19 +39,19 @@ const Nav = () => {
                 </button>
               </li>
               <li>
-                <a onClick={toggleMenu}>Product</a>
+                <a href='/' onClick={toggleMenu}>Product</a>
               </li>
               <li className='mb-4 hover:underline-offset-8'>
-                <a onClick={toggleMenu}>Pricing</a>
+                <a href='/pricing' onClick={toggleMenu}>Pricing</a>
               </li>
               <li className='mb-4 hover:underline-offset-8'>
-                <a onClick={toggleMenu}>Company</a>
+                <a href='/company' onClick={toggleMenu}>Company</a>
               </li>
               <li className='mb-4 hover:underline-offset-8'>
-                <a onClick={toggleMenu}>Blog</a>
+                <a href='/blog' onClick={toggleMenu}>Blog</a>
               </li>
               <li className='mb-4 hover:underline-offset-8'>
-                <a onClick={toggleMenu}>Contact</a>
+                <a href='/contact' onClick={toggleMenu}>Contact</a>
               </li>
               <li className='mb-4 hover:underline-offset-8'>
                 <BlueButton />

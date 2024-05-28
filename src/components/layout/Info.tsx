@@ -62,6 +62,17 @@ const Info = () => {
           </ul>
         </div>
        
+       <div className='flex gap-[10px] w-[400px] md:w-[410px] h-[80px] bg-primary-blue absolute left-[15px] md:left-[390px] top-[4585px] md:top-[3210px] rounded-lg'>
+        <div className='my-auto pl-[15px]'>
+        <p className='text-white'>Automate your sales & marketing</p>
+        </div>
+        <div className='my-auto'>
+        <button 
+             type="submit" 
+             className="bg-primary-green text-white font-bold tracking-[-0.25px] w-[120px] h-[56px] rounded-lg text-[18px]"><a href="/pricing">Start Now</a>
+        </button> 
+        </div>
+       </div>
       </div>
 
       <div className='h-[1070px] md:h-[720px] mt-8 md:mt-[120px] border-t-[1px] border-border-grey flex flex-col md:flex-row'>
