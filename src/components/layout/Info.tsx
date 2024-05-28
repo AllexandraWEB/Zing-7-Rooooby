@@ -27,22 +27,33 @@ const Info = () => {
         </div>
         <div className='flex justify-end'>
         <img 
-        src="Image-Revenue.png" 
+        src="Image.svg" 
         alt="Stats"
-        className='relative h-[400px] w-[400px] md:h-[575px] md:w-[1000px] mt-4 md:mt-[60px] m-auto' />
+        className='relative h-[400px] w-[400px] md:h-[555px] md:w-[1000px] mt-4 md:mt-[60px] m-auto' />
       </div>
       </div>
 
       <div className='h-[1350px] md:h-[604px] mt-3 md:mt-[120px] border-t-[1px] border-border-grey flex flex-col md:flex-row'>
       <div className='flex flex-wrap justify-end'>
         <img 
-        src="Image-Marketing.png" 
+        src="Image-Marketing.svg" 
         alt="Stats"
-        className='relative h-[400px] w-[400px] md:h-[510px] md:w-[1000px] mt-[400px] md:mt-[60px] ml-4 m-auto' />
+        className='relative h-[400px] w-[400px] md:h-[555px] md:w-[555px] mt-[400px] md:mt-[60px] ml-4 m-auto' />
       </div>
-        <div className='px-6 py-4 w-full text-start md:text-start pl-0 md:pl-[98px]'>
+        <div className='px-6 py-4 w-[350px] mx-auto text-start md:text-start pl-0'>
+        <div className='flex gap-[5px] md:gap-[10px] w-[350px] md:w-[410px] h-[80px] md:h-[80px] bg-primary-blue relative md:absolute md:left-[390px] md:top-[3210px] rounded-lg'>
+        <div className='my-auto pl-[15px]'>
+        <p className='text-white'>Automate your sales & marketing</p>
+        </div>
+        <div className='my-auto'>
+        <button 
+             type="submit" 
+             className="bg-primary-green text-white font-bold tracking-[-0.25px] w-[110px] md:w-[120px] h-[50px] md:h-[56px] mr-[10px] md:mr-0 rounded-lg text-[18px]"><a href="/pricing">Start Now</a>
+        </button> 
+        </div>
+       </div>
           <div className=''>
-            <p className='w-[112px] text-dark-gray uppercase text-[14px] font-bold px-[8px] py-[6px] tracking-[1.4px] bg-primary-yellow rounded-md mt-3 md:mt-[93px] ml-[155px] md:ml-0'>marketing</p>
+            <p className='w-[112px] text-dark-gray uppercase text-[14px] font-bold px-[8px] py-[6px] tracking-[1.4px] bg-primary-yellow rounded-md mt-[50px] md:mt-[93px] ml-[125px] md:ml-0'>marketing</p>
           </div>
           <h1 className='w-[350px] md:w-[560px] text-[30px] md:text-[58px] mx-auto md:mx-0 text-black font-bold tracking-[-0.67px] leading-[70px] text-primary max-sm:leading-[50px] mt-[50px] md:mt-[16px] text-center md:text-start'>Marketing</h1>
           <p className='w-[350px] md:w-[487px] mt-5 md:mt-[24px] mx-auto md:mx-0 text-[15px] md:text-[18px] text-center md:text-start'>Market like the most successful companies in the world with Agile CRM&apos;s marketing automation software. </p>
@@ -62,20 +73,9 @@ const Info = () => {
           </ul>
         </div>
        
-       <div className='flex gap-[10px] w-[400px] md:w-[410px] h-[80px] bg-primary-blue absolute left-[15px] md:left-[390px] top-[4585px] md:top-[3210px] rounded-lg'>
-        <div className='my-auto pl-[15px]'>
-        <p className='text-white'>Automate your sales & marketing</p>
-        </div>
-        <div className='my-auto'>
-        <button 
-             type="submit" 
-             className="bg-primary-green text-white font-bold tracking-[-0.25px] w-[120px] h-[56px] rounded-lg text-[18px]"><a href="/pricing">Start Now</a>
-        </button> 
-        </div>
-       </div>
       </div>
 
-      <div className='h-[1070px] md:h-[720px] mt-8 md:mt-[120px] border-t-[1px] border-border-grey flex flex-col md:flex-row'>
+      <div className='h-[1070px] md:h-[720px] mt-[120px] md:mt-[120px] border-t-[1px] border-border-grey flex flex-col md:flex-row'>
         <div className='px-a6 py-4 w-full text-center md:text-start'>
           <div>
             <p className='w-[65px] mx-auto md:mx-0 text-dark-gray uppercase text-[14px] font-bold px-[8px] py-[6px] tracking-[1.4px] bg-primary-yellow rounded-md mt-3 md:mt-[93px]'>sales</p>
