@@ -3,7 +3,7 @@ import React from 'react'
 const BenefitCard = () => {
   return (
     <div className='flex flex-col flex-wrap md:flex-row justify-between gap-[9px]'>
-    <div className='w-[374px] h-[439px] bg-card-blue rounded-lg hover:bg-primary-yellow hover:text-black hover:-translate-y-4 duration-500 mt-[40px] md:mt-[30px]'>
+    <div className='w-[350px] mx-auto md:mx-0 md:w-[374px] h-[439px] bg-card-blue rounded-lg hover:bg-primary-yellow hover:text-black hover:-translate-y-4 duration-500 mt-[40px] md:mt-[30px]'>
         <div>
             <img src="Icon-Human-White.svg" alt="" className='ml-8 md:ml-[36px] pt-[64px] pb-[46px]' />
         </div>
@@ -17,7 +17,7 @@ const BenefitCard = () => {
         </div>
       </div>
 
-      <div className='w-[374px] h-[439px] bg-card-blue rounded-lg hover:bg-primary-yellow hover:text-black hover:-translate-y-4 duration-500 mt-[20px] md:mt-[30px]'>
+      <div className='w-[350px] mx-auto md:mx-0 h-[439px] bg-card-blue rounded-lg hover:bg-primary-yellow hover:text-black hover:-translate-y-4 duration-500 mt-[20px] md:mt-[30px]'>
         <div>
             <img src="Icon-Laptop.svg" alt="" className='ml-8 md:ml-[36px] pt-[64px] pb-[61px]' />
         </div>
@@ -31,7 +31,7 @@ const BenefitCard = () => {
         </div>
       </div>
 
-      <div className='w-[374px] h-[439px] bg-card-blue rounded-lg hover:bg-primary-yellow hover:text-black hover:-translate-y-4 duration-500 mt-[20px] md:mt-[30px] mb-[70px]'>
+      <div className='w-[350px] mx-auto md:mx-0 bg-card-blue rounded-lg hover:bg-primary-yellow hover:text-black hover:-translate-y-4 duration-500 mt-[20px] md:mt-[30px] mb-[70px]'>
         <div>
             <img src="Icon-Stick.svg" alt="" className='ml-8 md:ml-[36px] pt-[64px] pb-[46px]' />
         </div>

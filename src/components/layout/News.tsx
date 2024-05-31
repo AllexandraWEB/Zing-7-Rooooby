@@ -2,7 +2,7 @@ import React from 'react'
 
 const News = () => {
   return (
-    <section className='w-full h-[1400px] md:h-[860px] overflow-hidden'>
+    <section className='w-[390px] md:w-full h-[1400px] mx-auto md:h-[860px] overflow-hidden'>
       <div className='regular-container h-full'>
         <div className='flex flex-wrap flex-col md:flex-row'>
           <h1 className='text-[30px] md:text-[64px] leading-[74px] tracking-[-0.89px] font-bold mt-[60px] md:mt-[120px] m-auto md:m-0'>What’s new at Roooby?</h1>
@@ -18,7 +18,7 @@ const News = () => {
         </div>
 
         <div className='flex flex-wrap flex-col md:flex-row gap-[5px] md:gap-[30px]'>
-          <div className='w-[350px] mx-[40px] md:mx-0 md:w-[553px] h-[580px]'>
+          <div className='w-[350px] md:w-[553px] mx-[20px] md:mx-0 h-[580px]'>
             <p className='mt-[100px] md:mt-[72px] pb-[16px] text-[14px] uppercase font-bold tracking-[1.4px] border-b-[2px] border-border-grey text-border-grey'>service</p>
             <img 
             src="Image-Thumbnail-1.png" 
@@ -28,7 +28,7 @@ const News = () => {
             <p className='text-[16px] font-medium mt-[24px]'>05 Sep 2024,<span className='text-border-grey'> by Joshua Nash</span></p>
           </div>
 
-          <div className='w-[350px] mx-[40px] md:mx-0 md:w-[553px] h-[580px]'>
+          <div className='w-[350px] md:w-[553px] mx-[20px] md:mx-0 h-[580px]'>
             <p className='mt-[72px] pb-[16px] text-[14px] uppercase font-bold tracking-[1.4px] border-b-[2px] border-border-grey text-border-grey'>service</p>
             <img 
             src="Image-Thumbnail-2.png" 

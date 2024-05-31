@@ -11,15 +11,15 @@ const Info = () => {
           <h1 className='w-[350px] md:w-[560px] text-[30px] md:text-[58px] mx-auto md:mx-0 text-black font-bold tracking-[-0.67px] leading-[70px] text-primary max-sm:leading-[50px] mt-[50px] md:mt-[16px] text-center md:text-start'>Increase company revenue up to 65%</h1>
           <p className='w-[350px] md:w-[487px] mt-5 md:mt-[24px] mx-auto md:mx-0 text-[16px] md:text-[18px] text-center md:text-start'>Automate your sales, marketing, and service in one platform. Avoid data leaks and enable consistent messaging.</p>
           <ul className='w-[487px] mt-6 md:mt-[25px] text-start'>
-            <li className='flex w-[400px]'>
+            <li className='flex w-[350px] md:w-[400px]'>
               <img src="Shape.svg" alt="" className='mr-[20px] md:mr-[27px] ml-[20px] md:ml-0'/>
               <p className='text-black text-[16px] md:text-[18px] leading-[28px] tracking-[0.2px]'>Close more deals with single-page contact management</p>
             </li>
-            <li className='flex w-[400px]'>
+            <li className='flex w-[350px] md:w-[400px]'>
               <img src="Shape.svg" alt="" className='mr-[20px] md:mr-[27px] ml-[20px] md:ml-0'/>
               <p className='text-black text-[16px] md:text-[18px] leading-[28px] tracking-[0.2px] mt-4 md:mt-[16px]'>Enjoy one-click calling, call scripts and voicemail automation</p>
             </li>
-            <li className='flex w-[400px]'>
+            <li className='flex w-[350px] md:w-[400px]'>
               <img src="Shape.svg" alt="" className='mr-[20px] md:mr-[27px] ml-[20px] md:ml-0'/>
               <p className='text-black text-[16px] md:text-[18px] leading-[28px] tracking-[0.2px] mt-4 md:mt-[16px]'>Track stages and milestones of your deals to keep the sales process on track</p>
             </li>
@@ -58,15 +58,15 @@ const Info = () => {
           <h1 className='w-[350px] md:w-[560px] text-[30px] md:text-[58px] mx-auto md:mx-0 text-black font-bold tracking-[-0.67px] leading-[70px] text-primary max-sm:leading-[50px] mt-[50px] md:mt-[16px] text-center md:text-start'>Marketing</h1>
           <p className='w-[350px] md:w-[487px] mt-5 md:mt-[24px] mx-auto md:mx-0 text-[15px] md:text-[18px] text-center md:text-start'>Market like the most successful companies in the world with Agile CRM&apos;s marketing automation software. </p>
           <ul className='w-[487px] mt-6 md:mt-[25px]'>
-            <li className='flex w-[400px]'>
+            <li className='flex w-[350px] md:w-[400px]'>
               <img src="Shape.svg" alt="" className='mr-[20px] md:mr-[27px] ml-[20px] md:ml-0'/>
               <p className='text-black text-[16px] md:text-[18px] leading-[28px] tracking-[0.2px]'>Marketing workflows with an easy drag-and-drop designer</p>
             </li>
-            <li className='flex w-[400px]'>
+            <li className='flex w-[350px] md:w-[400px]'>
               <img src="Shape.svg" alt="" className='mr-[20px] md:mr-[27px] ml-[20px] md:ml-0'/>
               <p className='text-black text-[16px] md:text-[18px] leading-[28px] tracking-[0.2px] mt-4 md:mt-[16px]'>Use our templates to create high converting, mobile responsive landing pages</p>
             </li>
-            <li className='flex w-[400px]'>
+            <li className='flex w-[350px] md:w-[400px]'>
               <img src="Shape.svg" alt="" className='mr-[20px] md:mr-[27px] ml-[20px] md:ml-0'/>
               <p className='text-black text-[16px] md:text-[18px] leading-[28px] tracking-[0.2px] mt-4 md:mt-[16px]'>Integrate social media easily into your marketing campaigns & contact views</p>
             </li>
@@ -83,15 +83,15 @@ const Info = () => {
           <h1 className='w-[350px] md:w-[560px] text-[30px] md:text-[58px] mx-auto md:mx-0 text-black font-bold tracking-[-0.67px] leading-[70px] text-primary max-sm:leading-[50px] mt-[50px] md:mt-[16px] text-center md:text-start'>Help Desk Software</h1>
           <p className='w-[350px] md:w-[487px] mt-5 md:mt-[24px] mx-auto md:mx-0 text-[16px] md:text-[18px] text-center md:text-start'>Great customer support separates decent companies from excellent companies. A positive customer support experience is a crucially important piece of the customer journey.</p>
           <ul className='w-[487px] mt-6 md:mt-[25px] text-start'>
-            <li className='flex w-[400px] md:w-[440px]'>
+            <li className='flex w-[350px] md:w-[400px]'>
               <img src="Shape.svg" alt="" className='mr-[20px] md:mr-[27px] ml-[20px] md:ml-0'/>
               <p className='text-black text-[16px] md:text-[18px] leading-[28px] tracking-[0.2px]'>Resolve every issue in the shortest possible time with powerful ticketing features</p>
             </li>
-            <li className='flex w-[400px] md:w-[440px]'>
+            <li className='flex w-[350px] md:w-[400px]'>
               <img src="Shape.svg" alt="" className='mr-[20px] md:mr-[27px] ml-[20px] md:ml-0'/>
               <p className='text-black text-[16px] md:text-[18px] leading-[28px] tracking-[0.2px] mt-4 md:mt-[16px]'>Categorize tickets according to the issue and route them to the appropriate group (e.g. sales or support)</p>
             </li>
-            <li className='flex w-[400px] md:w-[440px]'>
+            <li className='flex w-[350px] md:w-[400px]'>
               <img src="Shape.svg" alt="" className='mr-[20px] md:mr-[27px] ml-[20px] md:ml-0'/>
               <p className='text-black text-[16px] md:text-[18px] leading-[28px] tracking-[0.2px] mt-4 md:mt-[16px]'>Enjoy at-a-glance views of important data—such as ticket priority—on your dashboard</p>
             </li>

@@ -7,7 +7,7 @@ const Hero = () => {
     <div className='mx-auto w-full flex flex-col md:flex-row'>
       <div className='w-full md:hero-content text-center md:text-start'>
 
-        <h1 className='max-w-[642px] md:pl-[33px] text-[40px] md:text-[64px] mx-[20px] md:mx-0 text-primary-blue font-bold tracking-[-0.89px] leading-[74px] text-primary max-sm:leading-[50px] mt-[40px] md:mt-[75px]'>Bringing companies and customers together, anywhere</h1>
+        <h1 className='max-w-[642px] md:pl-[33px] text-[35px] md:text-[64px] mx-[20px] md:mx-0 text-primary-blue font-bold tracking-[-0.89px] leading-[74px] text-primary max-sm:leading-[50px] mt-[40px] md:mt-[75px]'>Bringing companies and customers together, anywhere</h1>
         <p className='max-w-[478px] md:pl-[30px] mt-5 md:mt-6 mx-5 md:mx-0 text-[16px] md:text-[18px]'>An awesome & powefull tools for your business, increase business revenue with enterprise-grade links built to acquire and engage cutomers.</p>
 
         <form className="flex">
@@ -23,7 +23,7 @@ const Hero = () => {
 
                             <button 
                             type="submit" 
-                            className="bg-primary-blue text-white text-bold w-[158px] h-[54px] py-2 px-7 rounded-lg absolute right-[50px] md:right-[162px] bottom-[37px] md:bottom-[37px] font-bold text-[18px]">Try for Free</button> 
+                            className="bg-primary-blue text-white text-bold w-[158px] h-[54px] py-2 px-7 rounded-lg absolute right-[46px] md:right-[162px] bottom-[37px] md:bottom-[37px] font-bold text-[18px]">Try for Free</button> 
 
                             <p className="ml-4 mt-2 text-sm text-[#404040] lg:text-left">
                              Full access. No credit card required.

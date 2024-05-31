@@ -7,6 +7,7 @@ const CompanySection = () => {
             <div className='mx-auto text-center mt-[120px]'>
             <h1 className='text-[74px] font-bold text-primary-blue'>404</h1>
             <p className='text-[18px] uppercase font-bold'>Page not found</p>
+            <p className='text-[30px] mt-[40px] text-primary-blue uppercase font-bold'>Coming soon</p>
             </div>
         </div>
     </section>

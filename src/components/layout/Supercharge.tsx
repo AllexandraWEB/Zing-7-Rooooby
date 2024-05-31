@@ -5,8 +5,8 @@ const Supercharge = () => {
     <section className="relative overflow-hidden">
       <div className="regular-container flex flex-wrap flex-col md:flex-row pt-[120px] pb-[117px]">
         <div className='sm:w-[350px] md:w-[773px]'>
-          <h2 className="w-[350px] md:w-[773px] text-[30px] md:text-[64px] mx-[40px] md:mx-0 text-center md:text-start font-bold md:leading-[73px] tracking-[-0.89px] text-white">Ready to supercharge your business?</h2>
-          <div className='w-full text-center md:text-start md:w-[570px] md:mt-[24px]'>
+          <h2 className="w-[350px] md:w-[773px] text-[30px] md:text-[64px] mx-auto md:mx-0 text-center md:text-start font-bold md:leading-[73px] tracking-[-0.89px] text-white">Ready to supercharge your business?</h2>
+          <div className='w-[350px] md:w-[570px] mx-auto md:mx-0 text-center md:text-start md:mt-[24px]'>
           <p className="mt-[25px] text-[18px] font-medium text-[#B8CACE]">
             Ask about <span className="font-black">Roooby</span> products, pricing, implementation, or anything else.
             Our highly trained reps are standing by, ready to help.

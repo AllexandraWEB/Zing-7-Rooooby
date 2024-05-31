@@ -20,7 +20,7 @@ const Results = () => {
             <p className='mt-[15px] md:mt-[24px] text-[18px] md:text-[20px] font-bold'>Generate sales</p>
           </div>
 
-          <div className='w-[415px] md:w-[749px] mx-auto md:mx-0 md:h-[126px]'>
+          <div className='w-[350px] md:w-[749px] mx-auto md:mx-0 md:h-[126px]'>
             <p className='mt-[5px] md:mt-[45px] text-[18px] leading-[30px] md:leading-[42px] md:text-[30px] font-medium tracking-[-0.44px] text-center md:text-start'>Using Кирилица CRM is one of the best decisions we’ve ever made. We’ve seen our annual revenue explode, and the outlook just keeps getting sunnier.</p>
             <div className='mt-[42px] md:mt-[32px] flex flex-row gap-[20px] md:gap-[12px]'>
               <img 
@@ -43,7 +43,7 @@ const Results = () => {
             <p className='mt-[15px] md:mt-[24px] text-[18px] md:text-[20px] font-bold'>Grew revenue</p>
           </div>
 
-          <div className='w-[415px] md:w-[749px] mx-auto md:mx-0 md:h-[126px]'>
+          <div className='w-[350px] md:w-[749px] mx-auto md:mx-0 md:h-[126px]'>
             <p className='mt-[5px] md:mt-[45px] text-[18px] leading-[30px] md:leading-[42px] md:text-[30px] font-medium tracking-[-0.44px] text-center md:text-start'>Yoora is created for sales people. It’s the kind of software that just works. I don’t have to try to make it work. It already does. It’s just perfect.</p>
             <div className='mt-[42px] md:mt-[32px] flex flex-row gap-[20px] md:gap-[12px]'>
               <img 
