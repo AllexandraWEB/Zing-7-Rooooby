@@ -29,16 +29,16 @@ const Info = () => {
         <img 
         src="Image.svg" 
         alt="Stats"
-        className='relative h-[400px] w-[400px] md:h-[555px] md:w-[1000px] mt-4 md:mt-[60px] m-auto' />
+        className='relative h-[350px] w-[370px] md:h-[555px] md:w-[1000px] mt-4 md:mt-[60px] m-auto' />
       </div>
       </div>
 
-      <div className='h-[1350px] md:h-[604px] mt-3 md:mt-[120px] border-t-[1px] border-border-grey flex flex-col md:flex-row'>
+      <div className='h-[1350px] md:h-[604px] mt-[-55px] md:mt-[120px] border-t-[1px] border-border-grey flex flex-col md:flex-row'>
       <div className='flex flex-wrap justify-end'>
         <img 
         src="Image-Marketing.svg" 
         alt="Stats"
-        className='relative h-[400px] w-[400px] md:h-[555px] md:w-[555px] mt-[400px] md:mt-[60px] ml-4 m-auto' />
+        className='relative h-[350px] w-[370px] md:h-[555px] md:w-[555px] mt-[400px] md:mt-[60px] ml-4 m-auto' />
       </div>
         <div className='px-6 py-4 w-[350px] mx-auto text-start md:text-start pl-0'>
         <div className='flex gap-[5px] md:gap-[10px] w-[350px] md:w-[410px] h-[80px] md:h-[80px] bg-primary-blue relative md:absolute md:left-[390px] md:top-[3210px] rounded-lg'>

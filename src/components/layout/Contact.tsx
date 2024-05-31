@@ -31,8 +31,8 @@ const Contact = () => {
                 <p className='text-[18px] text-[#404040]'>hello@me.com</p>
              </div>
              <div className='border-l-[1.5px] border-border-grey pl-[16px]'>
-                <h4 className='font-bold text-[18px]'>General</h4>
-                <p className='text-[18px] text-[#404040]'>hello@me.com</p>
+                <h4 className='font-bold text-[18px]'>Support</h4>
+                <p className='text-[18px] text-[#404040]'>support@me.com</p>
              </div>
             </div>
            </div>

@@ -3,7 +3,7 @@ import React from 'react'
 const BusinessCard = () => {
   return (
     <div className='flex flex-col md:flex-row justify-between gap-[9px]'>
-    <div className='w-[374px] h-[814px] bg-white rounded-[15px] mt-[40px] md:mt-[100px] shadow-sm'>
+    <div className='w-[350px] md:w-[374px] mx-auto md:mx-0 h-[814px] bg-white rounded-[15px] mt-[40px] md:mt-[100px] shadow-sm'>
         
         <div className='w-[310px] m-auto'>
         <div className='w-[168px]'>
