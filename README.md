@@ -1,3 +1,13 @@
+# Roooby
+
+https://zing-7-rooooby.vercel.app
+
+<p>One of my training projects for Zing7. We were provided with Figma design which was re-created pixel perfect.</p>
+
+![Photo 1](https://github.com/user-attachments/assets/1d1a6484-d175-4222-8a48-791fbaa95d83)
+![Photo Mobile](https://github.com/user-attachments/assets/4fa7112b-7340-4538-86b0-36818f5bd95e)
+![Photo 2](https://github.com/user-attachments/assets/678ea0b3-7048-4fc1-8ca7-72fbccd1cc1b)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +44,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Made with React, NextJS and Tailwind deployed on Vercel.
